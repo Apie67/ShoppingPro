@@ -1,0 +1,16 @@
+body{
+    background-image: url(naruto.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed
+}    
+#p1{background:linear-gradient(to left skyblue,lightgreen);
+    background-repeat:no-repeat;
+    background-attachment: fixed
+}    
+
+    
+        
+
+
+    

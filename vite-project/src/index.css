@@ -1,0 +1,28 @@
+body{
+  background-color: aqua;
+  margin: 0;
+}
+
+.count-container{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+
+.count-display{
+  font-size: 6em;
+  font-weight: bold;
+  font-family: monospace;
+  margin-bottom: 10px;
+
+}
+
+.counterBtn{
+  width: 150px;
+  height:auto;
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 0 5px;
+
+}
+ 
